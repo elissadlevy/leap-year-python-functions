@@ -8,7 +8,7 @@ To do this, you may want to use a <a href="https://www.accuracyproject.org/leapy
 
 ## The Lab
 
-We'll separate our concerns by _defining_ our methods in the leap.py file, and _calling_ our methods in the testleap.py file.
+We'll separate our concerns by _defining_ our functions in the leap.py file, and _calling_ our functions in the testleap.py file.
 
 Open up those two files, complete the challenges listed, and run your tests with the command `python testleap.py`
 
@@ -41,7 +41,7 @@ elif some_number % 2 == 1:
 
 ### Boolean return data
 
-The first method we will define will tell us whether a given year is a leap year. This is a really useful method, because there are only two possible answers. These two possible answers are called booleans which hold the value of either True or False.
+The first function we will define will tell us whether a given year is a leap year. This is a really useful function, because there are only two possible answers. These two possible answers are called booleans which hold the value of either True or False.
 
 ```python
 def is_leap_year(year)
