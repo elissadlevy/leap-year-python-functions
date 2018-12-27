@@ -20,9 +20,9 @@ You've already used some comparison operators (greater than, less than, and equa
 
 ### Modulus and remainders
 
-In Ruby, you can easily find the remainder of a division expression. For example, 10 divided by three is three, with a remainder of 1.
+In Python, you can easily find the remainder of a division expression. For example, 10 divided by three is three, with a remainder of 1.
 
-To jump straight to a remainder, can write the expression using the modulus (%) operator.
+To jump straight to a remainder, you can write the expression using the modulus (%) operator.
 
 ` 10 % 3 `
 
