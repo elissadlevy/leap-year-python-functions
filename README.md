@@ -55,7 +55,7 @@ Notice that the words True and False are not in quotes. If we wrote them that wa
 
 ### for-in loops
 
-Loops, as you might imagine, let you repeat something on a scale that would be exhausting to do manually. We will cover many types in later in the course, but here's a great first loop to run.
+Loops, as you might imagine, let you repeat something on a scale that would be exhausting to do manually. We will cover many types later in the course, but here's a great first loop to run.
 
 Let's write code that prints every number from 1-100:
 
