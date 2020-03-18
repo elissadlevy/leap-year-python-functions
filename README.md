@@ -1,5 +1,7 @@
 # Leap Year Challenge
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/leap-year-python-functions)](https://repl.it/github/upperlinecode/leap-year-python-functions)
+
 ## The Goal
 
 We're going to write a program which will tell us whether or not a given year is a leap year. We'll do three versions of it - each one a little more complicated than the last.
